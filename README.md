@@ -1,4 +1,4 @@
-Intel CPU 辞書 (Google MIE)
+Intel CPU 辞書 (Google IME)
 
 IntelのCPU辞書を個人的に作成したものを協力者に極力作って欲しいです。
 共同作業を行えば大量の辞書データを少ない作業で手に入れられると思い上げました。
