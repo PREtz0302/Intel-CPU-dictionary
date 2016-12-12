@@ -1,0 +1,43 @@
+じーおんE3	Intel® Xeon® Processor E5-2699A v4	独立語	キャッシュ:55.0MB　動作周波数:2.40GHz　Core/Thread:22/44　TDP:145W 
+じーおんE3	Intel® Xeon® Processor E5-2699R v4	独立語	キャッシュ:55.0MB　動作周波数:2.20GHz　Core/Thread:22/44　TDP:145W 
+じーおんE3	Intel® Xeon® Processor E5-4669 v4	独立語	キャッシュ:55.0MB　動作周波数:2.20GHz　Core/Thread:22/44　TDP:135W 
+じーおんE3	Intel® Xeon® Processor E5-4667 v4	独立語	キャッシュ:45.0MB　動作周波数:2.20GHz　Core/Thread:18/36　TDP:135W 
+じーおんE3	Intel® Xeon® Processor E5-4660 v4	独立語	キャッシュ:40.0MB　動作周波数:2.20GHz　Core/Thread:16/32　TDP:120W 
+じーおんE3	Intel® Xeon® Processor E5-4655 v4	独立語	キャッシュ:30.0MB　動作周波数:2.50GHz　Core/Thread:8/16　TDP:135W 
+じーおんE3	Intel® Xeon® Processor E5-4650 v4	独立語	キャッシュ:35.0MB　動作周波数:2.20GHz　Core/Thread:14/28　TDP:105W 
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
+じーおんE3		独立語	
