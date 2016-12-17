@@ -59,3 +59,4 @@
 じーおんE7	Intel® Xeon® Processor E7-8890 v4	独立語	キャッシュ:60.0MB　動作周波数:2.20GHz　Core/Thread:24/48　TDP:165W
 じーおんE7	Intel® Xeon® Processor E7-8891 v4	独立語	キャッシュ:60.0MB　動作周波数:2.80GHz　Core/Thread:10/20　TDP:165W
 じーおんE7	Intel® Xeon® Processor E7-8893 v4	独立語	キャッシュ:60.0MB　動作周波数:3.20GHz　Core/Thread:4/8　TDP:140W
+じーおんE7	協力者募集	独立語	現在Gitにて協力者を募集しています。

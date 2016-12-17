@@ -1,72 +1,73 @@
-じーおんE5	Intel® Xeon® Processor E5-4669 v3	独立語	キャッシュ:45.0MB　動作周波数:2.10GHz　Core/Thread:18/36　TDP:135W
-じーおんE5	Intel® Xeon® Processor E5-4667 v3	独立語	キャッシュ:40.0MB　動作周波数:2.00GHz　Core/Thread:16/32　TDP:135W
-じーおんE5	Intel® Xeon® Processor E5-4660 v3	独立語	キャッシュ:35.0MB　動作周波数:2.10GHz　Core/Thread:14/28　TDP:120W
-じーおんE5	Intel® Xeon® Processor E5-4655 v3	独立語	キャッシュ:30.0MB　動作周波数:2.90GHz　Core/Thread:6/12　TDP:135W
-じーおんE5	Intel® Xeon® Processor E5-4650 v3	独立語	キャッシュ:30.0MB　動作周波数:2.10GHz　Core/Thread:12/24　TDP:105W
-じーおんE5	Intel® Xeon® Processor E5-4640 v3	独立語	キャッシュ:30.0MB　動作周波数:1.90GHz　Core/Thread:12/24　TDP:105W
-じーおんE5	Intel® Xeon® Processor E5-4627 v3	独立語	キャッシュ:25.0MB　動作周波数:2.60GHz　Core/Thread:10/10　TDP:135W
-じーおんE5	Intel® Xeon® Processor E5-4620 v3	独立語	キャッシュ:25.0MB　動作周波数:2.00GHz　Core/Thread:10/20　TDP:105W
-じーおんE5	Intel® Xeon® Processor E5-4610 v3	独立語	キャッシュ:25.0MB　動作周波数:1.70GHz　Core/Thread:10/20　TDP:105W
-じーおんE5	Intel® Xeon® Processor E5-2699 v3	独立語	キャッシュ:45.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:18/36　TDP:145W
-じーおんE5	Intel® Xeon® Processor E5-2698 v3	独立語	キャッシュ:40.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:16/32　TDP:135W
-じーおんE5	Intel® Xeon® Processor E5-2697 v3	独立語	キャッシュ:35.0MB SmartCache　動作周波数:2.60GHz　Core/Thread:14/28　TDP:145W
-じーおんE5	Intel® Xeon® Processor E5-2695 v3	独立語	キャッシュ:35.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:14/28　TDP:120W
-じーおんE5	Intel® Xeon® Processor E5-2690 v3	独立語	キャッシュ:30.0MB SmartCache　動作周波数:2.60GHz　Core/Thread:12/24　TDP:135W
-じーおんE5	Intel® Xeon® Processor E5-2687W v3	独立語	キャッシュ:25.0MB SmartCache　動作周波数:3.10GHz　Core/Thread:10/20　TDP:160W
-じーおんE5	Intel® Xeon® Processor E5-2683 v3	独立語	キャッシュ:35.0MB SmartCache　動作周波数:2.00GHz　Core/Thread:14/28　TDP:120W
-じーおんE5	Intel® Xeon® Processor E5-2680 v3	独立語	キャッシュ:30.0MB SmartCache　動作周波数:2.50GHz　Core/Thread:12/24　TDP:120W
-じーおんE5	Intel® Xeon® Processor E5-2670 v3	独立語	キャッシュ:30.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:12/24　TDP:120W
-じーおんE5	Intel® Xeon® Processor E5-2667 v3	独立語	キャッシュ:20.0MB SmartCache　動作周波数:3.20GHz　Core/Thread:8/16　TDP:135W
-じーおんE5	Intel® Xeon® Processor E5-2660 v3	独立語	キャッシュ:25.0MB SmartCache　動作周波数:2.60GHz　Core/Thread:10/20　TDP:105W
-じーおんE5	Intel® Xeon® Processor E5-2650L v3	独立語	キャッシュ:30.0MB SmartCache　動作周波数:1.80GHz　Core/Thread:12/24　TDP:65W
-じーおんE5	Intel® Xeon® Processor E5-2650 v3	独立語	キャッシュ:25.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:10/20　TDP:105W
-じーおんE5	Intel® Xeon® Processor E5-2643 v3	独立語	キャッシュ:20.0MB SmartCache　動作周波数:2.40GHz　Core/Thread:6/12　TDP:135W
-じーおんE5	Intel® Xeon® Processor E5-2640 v3	独立語	キャッシュ:20.0MB SmartCache　動作周波数:2.60GHz　Core/Thread:8/16　TDP:90W
-じーおんE5	Intel® Xeon® Processor E5-2637 v3	独立語	キャッシュ:15.0MB SmartCache　動作周波数:3.50GHz　Core/Thread:4/8　TDP:135W
-じーおんE5	Intel® Xeon® Processor E5-2630L v3	独立語	キャッシュ:20.0MB SmartCache　動作周波数:1.80GHz　Core/Thread:8/16　TDP:55W
-じーおんE5	Intel® Xeon® Processor E5-2630 v3	独立語	キャッシュ:20.0MB SmartCache　動作周波数:2.40GHz　Core/Thread:8/16　TDP:85W
-じーおんE5	Intel® Xeon® Processor E5-2623 v3	独立語	キャッシュ:10.0MB SmartCache　動作周波数:3.00GHz　Core/Thread:4/8　TDP:105W
-じーおんE5	Intel® Xeon® Processor E5-2620 v3	独立語	キャッシュ:15.0MB SmartCache　動作周波数:2.40GHz　Core/Thread:6/12　TDP:85W
-じーおんE5	Intel® Xeon® Processor E5-2609 v3	独立語	キャッシュ:15.0MB SmartCache　動作周波数:1.90GHz　Core/Thread:6/6　TDP:85W
-じーおんE5	Intel® Xeon® Processor E5-2603 v3	独立語	キャッシュ:15.0MB SmartCache　動作周波数:1.60GHz　Core/Thread:6/6　TDP:85W
 じーおんE5	Intel® Xeon® Processor E5-1620 v3	独立語	キャッシュ:10.0MB SmartCache　動作周波数:3.50GHz　Core/Thread:4/8　TDP:140W
+じーおんE5	Intel® Xeon® Processor E5-1620 v4	独立語	キャッシュ:10.0MB　動作周波数:3.50GHz　Core/Thread:4/8　TDP:140W 
 じーおんE5	Intel® Xeon® Processor E5-1630 v3	独立語	キャッシュ:10.0MB SmartCache　動作周波数:3.70GHz　Core/Thread:4/8　TDP:140W
 じーおんE5	Intel® Xeon® Processor E5-1650 v3	独立語	キャッシュ:15.0MB SmartCache　動作周波数:3.50GHz　Core/Thread:6/12　TDP:140W
+じーおんE5	Intel® Xeon® Processor E5-1650 v4	独立語	キャッシュ:15.0MB　動作周波数:3.60GHz　Core/Thread:6/12　TDP:140W 
 じーおんE5	Intel® Xeon® Processor E5-1660 v3	独立語	キャッシュ:20.0MB SmartCache　動作周波数:3.00GHz　Core/Thread:8/16　TDP:140W
 じーおんE5	Intel® Xeon® Processor E5-1680 v3	独立語	キャッシュ:20.0MB SmartCache　動作周波数:3.20GHz　Core/Thread:8/16　TDP:140W
-じーおんE5	Intel® Xeon® Processor E5-2699 v4	独立語	キャッシュ:55.0MB SmartCache　動作周波数:2.20GHz　Core/Thread:22/44　TDP:145W
-じーおんE5	Intel® Xeon® Processor E5-2695 v4	独立語	キャッシュ:45.0MB SmartCache　動作周波数:2.10GHz　Core/Thread:18/36　TDP:120W
+じーおんE5	Intel® Xeon® Processor E5-1680 v4	独立語	キャッシュ:20.0MB　動作周波数:3.40GHz　Core/Thread:8/16　TDP:140W 
+じーおんE5	Intel® Xeon® Processor E5-2603 v3	独立語	キャッシュ:15.0MB SmartCache　動作周波数:1.60GHz　Core/Thread:6/6　TDP:85W
+じーおんE5	Intel® Xeon® Processor E5-2603 v4	独立語	キャッシュ:15.0MB SmartCache　動作周波数:1.70GHz　Core/Thread:6/6　TDP:85W 
+じーおんE5	Intel® Xeon® Processor E5-2609 v3	独立語	キャッシュ:15.0MB SmartCache　動作周波数:1.90GHz　Core/Thread:6/6　TDP:85W
+じーおんE5	Intel® Xeon® Processor E5-2609 v4	独立語	キャッシュ:20.0MB SmartCache　動作周波数:1.70GHz　Core/Thread:8/8　TDP:85W 
+じーおんE5	Intel® Xeon® Processor E5-2620 v3	独立語	キャッシュ:15.0MB SmartCache　動作周波数:2.40GHz　Core/Thread:6/12　TDP:85W
+じーおんE5	Intel® Xeon® Processor E5-2620 v4	独立語	キャッシュ:20.0MB SmartCache　動作周波数:2.10GHz　Core/Thread:8/16　TDP:80W 
+じーおんE5	Intel® Xeon® Processor E5-2623 v3	独立語	キャッシュ:10.0MB SmartCache　動作周波数:3.00GHz　Core/Thread:4/8　TDP:105W
+じーおんE5	Intel® Xeon® Processor E5-2623 v4	独立語	キャッシュ:10.0MB SmartCache　動作周波数:2.60GHz　Core/Thread:4/8　TDP:85W
+じーおんE5	Intel® Xeon® Processor E5-2630 v3	独立語	キャッシュ:20.0MB SmartCache　動作周波数:2.40GHz　Core/Thread:8/16　TDP:85W
+じーおんE5	Intel® Xeon® Processor E5-2630 v4	独立語	キャッシュ:25.0MB SmartCache　動作周波数:2.20GHz　Core/Thread:10/20　TDP:85W 
+じーおんE5	Intel® Xeon® Processor E5-2630L v3	独立語	キャッシュ:20.0MB SmartCache　動作周波数:1.80GHz　Core/Thread:8/16　TDP:55W
+じーおんE5	Intel® Xeon® Processor E5-2630L v4	独立語	キャッシュ:25.0MB SmartCache　動作周波数:1.80GHz　Core/Thread:10/20　TDP:55W
+じーおんE5	Intel® Xeon® Processor E5-2637 v3	独立語	キャッシュ:15.0MB SmartCache　動作周波数:3.50GHz　Core/Thread:4/8　TDP:135W
+じーおんE5	Intel® Xeon® Processor E5-2637 v4	独立語	キャッシュ:15.0MB SmartCache　動作周波数:3.50GHz　Core/Thread:4/8　TDP:135W 
+じーおんE5	Intel® Xeon® Processor E5-2640 v3	独立語	キャッシュ:20.0MB SmartCache　動作周波数:2.60GHz　Core/Thread:8/16　TDP:90W
+じーおんE5	Intel® Xeon® Processor E5-2640 v4	独立語	キャッシュ:25.0MB SmartCache　動作周波数:2.40GHz　Core/Thread:10/20　TDP:90W 
+じーおんE5	Intel® Xeon® Processor E5-2643 v3	独立語	キャッシュ:20.0MB SmartCache　動作周波数:2.40GHz　Core/Thread:6/12　TDP:135W
+じーおんE5	Intel® Xeon® Processor E5-2643 v4	独立語	キャッシュ:20.0MB SmartCache　動作周波数:3.40GHz　Core/Thread:6/12　TDP:135W 
+じーおんE5	Intel® Xeon® Processor E5-2650 v3	独立語	キャッシュ:25.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:10/20　TDP:105W
+じーおんE5	Intel® Xeon® Processor E5-2650 v4	独立語	キャッシュ:30.0MB SmartCache　動作周波数:2.20GHz　Core/Thread:12/24　TDP:105W
+じーおんE5	Intel® Xeon® Processor E5-2650L v3	独立語	キャッシュ:30.0MB SmartCache　動作周波数:1.80GHz　Core/Thread:12/24　TDP:65W
+じーおんE5	Intel® Xeon® Processor E5-2650L v4	独立語	キャッシュ:35.0MB SmartCache　動作周波数:1.70GHz　Core/Thread:14/28　TDP:65W
+じーおんE5	Intel® Xeon® Processor E5-2660 v3	独立語	キャッシュ:25.0MB SmartCache　動作周波数:2.60GHz　Core/Thread:10/20　TDP:105W
 じーおんE5	Intel® Xeon® Processor E5-2660 v4	独立語	キャッシュ:35.0MB　動作周波数:2.00GHz　Core/Thread:14/28　TDP:105W
+じーおんE5	Intel® Xeon® Processor E5-2667 v3	独立語	キャッシュ:20.0MB SmartCache　動作周波数:3.20GHz　Core/Thread:8/16　TDP:135W
+じーおんE5	Intel® Xeon® Processor E5-2667 v4	独立語	キャッシュ:25.0MB SmartCache　動作周波数:3.20GHz　Core/Thread:8/16　TDP:135W
+じーおんE5	Intel® Xeon® Processor E5-2670 v3	独立語	キャッシュ:30.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:12/24　TDP:120W
+じーおんE5	Intel® Xeon® Processor E5-2680 v3	独立語	キャッシュ:30.0MB SmartCache　動作周波数:2.50GHz　Core/Thread:12/24　TDP:120W
 じーおんE5	Intel® Xeon® Processor E5-2680 v4	独立語	キャッシュ:35.0MB SmartCache　動作周波数:2.40GHz　Core/Thread:14/28　TDP:120W
+じーおんE5	Intel® Xeon® Processor E5-2683 v3	独立語	キャッシュ:35.0MB SmartCache　動作周波数:2.00GHz　Core/Thread:14/28　TDP:120W
 じーおんE5	Intel® Xeon® Processor E5-2683 v4	独立語	キャッシュ:40.0MB SmartCache　動作周波数:2.10GHz　Core/Thread:16/32　TDP:120W
+じーおんE5	Intel® Xeon® Processor E5-2687W v3	独立語	キャッシュ:25.0MB SmartCache　動作周波数:3.10GHz　Core/Thread:10/20　TDP:160W
 じーおんE5	Intel® Xeon® Processor E5-2687W v4	独立語	キャッシュ:30.0MB SmartCache　動作周波数:3.00GHz　Core/Thread:12/24　TDP:160W
+じーおんE5	Intel® Xeon® Processor E5-2690 v3	独立語	キャッシュ:30.0MB SmartCache　動作周波数:2.60GHz　Core/Thread:12/24　TDP:135W
 じーおんE5	Intel® Xeon® Processor E5-2690 v4	独立語	キャッシュ:35.0MB SmartCache　動作周波数:2.60GHz　Core/Thread:14/28　TDP:135W
+じーおんE5	Intel® Xeon® Processor E5-2695 v3	独立語	キャッシュ:35.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:14/28　TDP:120W
+じーおんE5	Intel® Xeon® Processor E5-2695 v4	独立語	キャッシュ:45.0MB SmartCache　動作周波数:2.10GHz　Core/Thread:18/36　TDP:120W
+じーおんE5	Intel® Xeon® Processor E5-2697 v3	独立語	キャッシュ:35.0MB SmartCache　動作周波数:2.60GHz　Core/Thread:14/28　TDP:145W
 じーおんE5	Intel® Xeon® Processor E5-2697 v4	独立語	キャッシュ:45.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:18/36　TDP:145W
 じーおんE5	Intel® Xeon® Processor E5-2697A v4	独立語	キャッシュ:40.0MB SmartCache　動作周波数:2.60GHz　Core/Thread:16/32　TDP:145W
+じーおんE5	Intel® Xeon® Processor E5-2698 v3	独立語	キャッシュ:40.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:16/32　TDP:135W
 じーおんE5	Intel® Xeon® Processor E5-2698 v4	独立語	キャッシュ:50.0MB SmartCache　動作周波数:2.20GHz　Core/Thread:20/40　TDP:135W
-じーおんE5	Intel® Xeon® Processor E5-2650L v4	独立語	キャッシュ:35.0MB SmartCache　動作周波数:1.70GHz　Core/Thread:14/28　TDP:65W
-じーおんE5	Intel® Xeon® Processor E5-2650 v4	独立語	キャッシュ:30.0MB SmartCache　動作周波数:2.20GHz　Core/Thread:12/24　TDP:105W
-じーおんE5	Intel® Xeon® Processor E5-2630L v4	独立語	キャッシュ:25.0MB SmartCache　動作周波数:1.80GHz　Core/Thread:10/20　TDP:55W
-じーおんE5	Intel® Xeon® Processor E5-2667 v4	独立語	キャッシュ:25.0MB SmartCache　動作周波数:3.20GHz　Core/Thread:8/16　TDP:135W
-じーおんE5	Intel® Xeon® Processor E5-2623 v4	独立語	キャッシュ:10.0MB SmartCache　動作周波数:2.60GHz　Core/Thread:4/8　TDP:85W
-じーおんE5	Intel® Xeon® Processor E5-2630 v4	独立語	キャッシュ:25.0MB SmartCache　動作周波数:2.20GHz　Core/Thread:10/20　TDP:85W 
-じーおんE5	Intel® Xeon® Processor E5-2637 v4	独立語	キャッシュ:15.0MB SmartCache　動作周波数:3.50GHz　Core/Thread:4/8　TDP:135W 
-じーおんE5	Intel® Xeon® Processor E5-2640 v4	独立語	キャッシュ:25.0MB SmartCache　動作周波数:2.40GHz　Core/Thread:10/20　TDP:90W 
-じーおんE5	Intel® Xeon® Processor E5-2620 v4	独立語	キャッシュ:20.0MB SmartCache　動作周波数:2.10GHz　Core/Thread:8/16　TDP:80W 
-じーおんE5	Intel® Xeon® Processor E5-2643 v4	独立語	キャッシュ:20.0MB SmartCache　動作周波数:3.40GHz　Core/Thread:6/12　TDP:135W 
-じーおんE5	Intel® Xeon® Processor E5-2609 v4	独立語	キャッシュ:20.0MB SmartCache　動作周波数:1.70GHz　Core/Thread:8/8　TDP:85W 
-じーおんE5	Intel® Xeon® Processor E5-2603 v4	独立語	キャッシュ:15.0MB SmartCache　動作周波数:1.70GHz　Core/Thread:6/6　TDP:85W 
-じーおんE5	Intel® Xeon® Processor E5-1620 v4	独立語	キャッシュ:10.0MB　動作周波数:3.50GHz　Core/Thread:4/8　TDP:140W 
-じーおんE5	Intel® Xeon® Processor E5-1680 v4	独立語	キャッシュ:20.0MB　動作周波数:3.40GHz　Core/Thread:8/16　TDP:140W 
-じーおんE5	Intel® Xeon® Processor E5-1650 v4	独立語	キャッシュ:15.0MB　動作周波数:3.60GHz　Core/Thread:6/12　TDP:140W 
+じーおんE5	Intel® Xeon® Processor E5-2699 v3	独立語	キャッシュ:45.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:18/36　TDP:145W
+じーおんE5	Intel® Xeon® Processor E5-2699 v4	独立語	キャッシュ:55.0MB SmartCache　動作周波数:2.20GHz　Core/Thread:22/44　TDP:145W
+じーおんE5	Intel® Xeon® Processor E5-4610 v3	独立語	キャッシュ:25.0MB　動作周波数:1.70GHz　Core/Thread:10/20　TDP:105W
 じーおんE5	Intel® Xeon® Processor E5-4610 v4	独立語	キャッシュ:25.0MB　動作周波数:1.80GHz　Core/Thread:10/20　TDP:105W 
+じーおんE5	Intel® Xeon® Processor E5-4620 v3	独立語	キャッシュ:25.0MB　動作周波数:2.00GHz　Core/Thread:10/20　TDP:105W
 じーおんE5	Intel® Xeon® Processor E5-4620 v4	独立語	キャッシュ:25.0MB　動作周波数:2.10GHz　Core/Thread:10/20　TDP:105W 
+じーおんE5	Intel® Xeon® Processor E5-4627 v3	独立語	キャッシュ:25.0MB　動作周波数:2.60GHz　Core/Thread:10/10　TDP:135W
 じーおんE5	Intel® Xeon® Processor E5-4627 v4	独立語	キャッシュ:25.0MB　動作周波数:2.60GHz　Core/Thread:10/10　TDP:135W 
+じーおんE5	Intel® Xeon® Processor E5-4640 v3	独立語	キャッシュ:30.0MB　動作周波数:1.90GHz　Core/Thread:12/24　TDP:105W
 じーおんE5	Intel® Xeon® Processor E5-4640 v4	独立語	キャッシュ:30.0MB　動作周波数:2.10GHz　Core/Thread:12/24　TDP:105W 
+じーおんE5	Intel® Xeon® Processor E5-4640 v4	独立語	キャッシュ:30.0MB　動作周波数:2.10GHz　Core/Thread:12/24　TDP:105W 
+じーおんE5	Intel® Xeon® Processor E5-4650 v3	独立語	キャッシュ:30.0MB　動作周波数:2.10GHz　Core/Thread:12/24　TDP:105W
 じーおんE5	Intel® Xeon® Processor E5-4650 v4	独立語	キャッシュ:35.0MB　動作周波数:2.20GHz　Core/Thread:8/16　TDP:135W 
-じーおんE5	Intel® Xeon® Processor E5-4640 v4	独立語	キャッシュ:30.0MB　動作周波数:2.10GHz　Core/Thread:12/24　TDP:105W 
 じーおんE5	Intel® Xeon® Processor E5-4650 v4	独立語	キャッシュ:35.0MB　動作周波数:2.20GHz　Core/Thread:14/28　TDP:105W 
+じーおんE5	Intel® Xeon® Processor E5-4655 v3	独立語	キャッシュ:30.0MB　動作周波数:2.90GHz　Core/Thread:6/12　TDP:135W
 じーおんE5	Intel® Xeon® Processor E5-4655 v4	独立語	キャッシュ:30.0MB　動作周波数:2.50GHz　Core/Thread:8/16　TDP:135W 
+じーおんE5	Intel® Xeon® Processor E5-4660 v3	独立語	キャッシュ:35.0MB　動作周波数:2.10GHz　Core/Thread:14/28　TDP:120W
 じーおんE5	Intel® Xeon® Processor E5-4660 v4	独立語	キャッシュ:40.0MB　動作周波数:2.20GHz　Core/Thread:16/32　TDP:120W
+じーおんE5	Intel® Xeon® Processor E5-4667 v3	独立語	キャッシュ:40.0MB　動作周波数:2.00GHz　Core/Thread:16/32　TDP:135W
 じーおんE5	Intel® Xeon® Processor E5-4667 v4	独立語	キャッシュ:45.0MB　動作周波数:2.20GHz　Core/Thread:18/36　TDP:135W
+じーおんE5	Intel® Xeon® Processor E5-4669 v3	独立語	キャッシュ:45.0MB　動作周波数:2.10GHz　Core/Thread:18/36　TDP:135W
 じーおんE5	Intel® Xeon® Processor E5-4669 v4	独立語	キャッシュ:55.0MB　動作周波数:2.20GHz　Core/Thread:22/44　TDP:135W
+じーおんE5	協力者募集	独立語	現在Gitにて協力者を募集しています。

@@ -12,3 +12,4 @@
 こああいせぶん	Intel® Core™ i7-5960X Processor Extreme Edition 	独立語	キャッシュ:20.0MB　動作周波数:3.00GHz　Core/Thread:8/16　TDP:140W
 こああいせぶん	Intel® Core™ i7-6900K Processor 	独立語	キャッシュ:20.0MB　動作周波数:3.20GHz　Core/Thread:8/16　TDP:140W
 こああいせぶん	Intel® Core™ i7-6950X Processor Extreme Edition 	独立語	キャッシュ:25.0MB　動作周波数:3.00GHz　Core/Thread:10/20　TDP:140W
+こああいせぶん	協力者募集	独立語	現在Gitにて協力者を募集しています。
