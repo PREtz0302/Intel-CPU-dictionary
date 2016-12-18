@@ -1,15 +1,15 @@
-こああいせぶん	Intel® Core™ i7-3820 Processor 	独立語	キャッシュ:10.0MB　動作周波数:3.60GHz　Core/Thread:4/8　TDP:130W
-こああいせぶん	Intel® Core™ i7-4820K Processor 	独立語	キャッシュ:10.0MB　動作周波数:3.70GHz　Core/Thread:4/8　TDP:130W
-こああいせぶん	Intel® Core™ i7-3930K Processor 	独立語	キャッシュ:12.0MB　動作周波数:3.20GHz　Core/Thread:6/12　TDP:130W
-こああいせぶん	Intel® Core™ i7-4930K Processor 	独立語	キャッシュ:12.0MB　動作周波数:3.40GHz　Core/Thread:6/12　TDP:130W
-こああいせぶん	Intel® Core™ i7-3960X Processor Extreme Edition 	独立語	キャッシュ:15.0MB　動作周波数:3.30GHz　Core/Thread:6/12　TDP:130W
-こああいせぶん	Intel® Core™ i7-5820K Processor 	独立語	キャッシュ:15.0MB　動作周波数:3.30GHz　Core/Thread:6/12　TDP:140W
-こああいせぶん	Intel® Core™ i7-6800K Processor 	独立語	キャッシュ:15.0MB　動作周波数:3.40GHz　Core/Thread:6/12　TDP:140W
-こああいせぶん	Intel® Core™ i7-5930K Processor 	独立語	キャッシュ:15.0MB　動作周波数:3.50GHz　Core/Thread:6/12　TDP:140W
-こああいせぶん	Intel® Core™ i7-3970X Processor Extreme Edition 	独立語	キャッシュ:15.0MB　動作周波数:3.50GHz　Core/Thread:6/12　TDP:150W
-こああいせぶん	Intel® Core™ i7-4960X Processor Extreme Edition 	独立語	キャッシュ:15.0MB　動作周波数:3.60GHz　Core/Thread:6/12　TDP:130W
-こああいせぶん	Intel® Core™ i7-6850K Processor 	独立語	キャッシュ:15.0MB　動作周波数:3.60GHz　Core/Thread:6/12　TDP:140W
-こああいせぶん	Intel® Core™ i7-5960X Processor Extreme Edition 	独立語	キャッシュ:20.0MB　動作周波数:3.00GHz　Core/Thread:8/16　TDP:140W
-こああいせぶん	Intel® Core™ i7-6900K Processor 	独立語	キャッシュ:20.0MB　動作周波数:3.20GHz　Core/Thread:8/16　TDP:140W
-こああいせぶん	Intel® Core™ i7-6950X Processor Extreme Edition 	独立語	キャッシュ:25.0MB　動作周波数:3.00GHz　Core/Thread:10/20　TDP:140W
-こああいせぶん	協力者募集	独立語	現在Gitにて協力者を募集しています。
+﻿あいせぶん	Intel® Core™ i7-3820 Processor 	独立語	キャッシュ:10.0MB　動作周波数:3.60GHz　Core/Thread:4/8　TDP:130W
+あいせぶん	Intel® Core™ i7-4820K Processor 	独立語	キャッシュ:10.0MB　動作周波数:3.70GHz　Core/Thread:4/8　TDP:130W
+あいせぶん	Intel® Core™ i7-3930K Processor 	独立語	キャッシュ:12.0MB　動作周波数:3.20GHz　Core/Thread:6/12　TDP:130W
+あいせぶん	Intel® Core™ i7-4930K Processor 	独立語	キャッシュ:12.0MB　動作周波数:3.40GHz　Core/Thread:6/12　TDP:130W
+あいせぶん	Intel® Core™ i7-3960X Processor Extreme Edition 	独立語	キャッシュ:15.0MB　動作周波数:3.30GHz　Core/Thread:6/12　TDP:130W
+あいせぶん	Intel® Core™ i7-5820K Processor 	独立語	キャッシュ:15.0MB　動作周波数:3.30GHz　Core/Thread:6/12　TDP:140W
+あいせぶん	Intel® Core™ i7-6800K Processor 	独立語	キャッシュ:15.0MB　動作周波数:3.40GHz　Core/Thread:6/12　TDP:140W
+あいせぶん	Intel® Core™ i7-5930K Processor 	独立語	キャッシュ:15.0MB　動作周波数:3.50GHz　Core/Thread:6/12　TDP:140W
+あいせぶん	Intel® Core™ i7-3970X Processor Extreme Edition 	独立語	キャッシュ:15.0MB　動作周波数:3.50GHz　Core/Thread:6/12　TDP:150W
+あいせぶん	Intel® Core™ i7-4960X Processor Extreme Edition 	独立語	キャッシュ:15.0MB　動作周波数:3.60GHz　Core/Thread:6/12　TDP:130W
+あいせぶん	Intel® Core™ i7-6850K Processor 	独立語	キャッシュ:15.0MB　動作周波数:3.60GHz　Core/Thread:6/12　TDP:140W
+あいせぶん	Intel® Core™ i7-5960X Processor Extreme Edition 	独立語	キャッシュ:20.0MB　動作周波数:3.00GHz　Core/Thread:8/16　TDP:140W
+あいせぶん	Intel® Core™ i7-6900K Processor 	独立語	キャッシュ:20.0MB　動作周波数:3.20GHz　Core/Thread:8/16　TDP:140W
+あいせぶん	Intel® Core™ i7-6950X Processor Extreme Edition 	独立語	キャッシュ:25.0MB　動作周波数:3.00GHz　Core/Thread:10/20　TDP:140W
+あいせぶん	協力者募集	独立語	現在Gitにて協力者を募集しています。
