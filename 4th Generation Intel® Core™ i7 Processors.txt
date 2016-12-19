@@ -1,0 +1,49 @@
+﻿あいせぶん	Intel® Core™ i7-4765T Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:2.00GHz　Core/Thread:4/8　TDP:35W
+あいせぶん	Intel® Core™ i7-4770 Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:3.40GHz　Core/Thread:4/8　TDP:84W
+あいせぶん	Intel® Core™ i7-4770K Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:3.50GHz　Core/Thread:4/8　TDP:84W
+あいせぶん	Intel® Core™ i7-4770R Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:3.20GHz　Core/Thread:4/8　TDP:65W
+あいせぶん	Intel® Core™ i7-4770S Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:3.10GHz　Core/Thread:4/8　TDP:65W
+あいせぶん	Intel® Core™ i7-4770T Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:2.50GHz　Core/Thread:4/8　TDP:45W
+あいせぶん	Intel® Core™ i7-4771 Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:3.50GHz　Core/Thread:4/8　TDP:84W
+あいせぶん	Intel® Core™ i7-4785T Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:2.20GHz　Core/Thread:4/8　TDP:35W
+あいせぶん	Intel® Core™ i7-4790 Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:3.60GHz　Core/Thread:4/8　TDP:84W
+あいせぶん	Intel® Core™ i7-4790K Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:4.00GHz　Core/Thread:4/8　TDP:88W
+あいせぶん	Intel® Core™ i7-4790S Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:3.20GHz　Core/Thread:4/8　TDP:65W
+あいせぶん	Intel® Core™ i7-4790T Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:2.70GHz　Core/Thread:4/8　TDP:45W
+あいせぶん	Intel® Core™ i7-4900MQ Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:2.80GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4910MQ Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:2.90GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4950HQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.40GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4960HQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.60GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4980HQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.80GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4800MQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.70GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4810MQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.80GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4850HQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4860HQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.40GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4870HQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.50GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4700HQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.40GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4700MQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.40GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4702HQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.20GHz　Core/Thread:4/8　TDP:37W
+あいせぶん	Intel® Core™ i7-4702MQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.20GHz　Core/Thread:4/8　TDP:37W
+あいせぶん	Intel® Core™ i7-4710HQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.50GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4710MQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.50GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4712HQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:4/8　TDP:43W
+あいせぶん	Intel® Core™ i7-4712MQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:4/8　TDP:37W
+あいせぶん	Intel® Core™ i7-4720HQ Processor	独立語	キャッシュ:6.0MB　動作周波数:2.60GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4722HQ Processor	独立語	キャッシュ:6.0MB　動作周波数:2.40GHz　Core/Thread:4/8　TDP:37W
+あいせぶん	Intel® Core™ i7-4750HQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.00GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4760HQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.10GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4770HQ Processor	独立語	キャッシュ:6.0MB　動作周波数:2.20GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4600M Processor	独立語	キャッシュ:4.0MB SmartCache　動作周波数:2.90GHz　Core/Thread:2/4　TDP:37W
+あいせぶん	Intel® Core™ i7-4600U Processor	独立語	キャッシュ:4.0MB SmartCache　動作周波数:2.10GHz　Core/Thread:2/4　TDP:15W
+あいせぶん	Intel® Core™ i7-4610M Processor	独立語	キャッシュ:4.0MB SmartCache　動作周波数:3.00GHz　Core/Thread:2/4　TDP:37W
+あいせぶん	Intel® Core™ i7-4610Y Processor	独立語	キャッシュ:4.0MB SmartCache　動作周波数:1.70GHz　Core/Thread:2/4　TDP:11.5W
+あいせぶん	Intel® Core™ i7-4650U Processor	独立語	キャッシュ:4.0MB SmartCache　動作周波数:1.70GHz　Core/Thread:2/4　TDP:15W
+あいせぶん	Intel® Core™ i7-4500U Processor	独立語	キャッシュ:4.0MB SmartCache　動作周波数:1.80GHz　Core/Thread:2/4　TDP:15W
+あいせぶん	Intel® Core™ i7-4510U Processor	独立語	キャッシュ:4.0MB SmartCache　動作周波数:2.00GHz　Core/Thread:2/4　TDP:15W
+あいせぶん	Intel® Core™ i7-4550U Processor	独立語	キャッシュ:4.0MB SmartCache　動作周波数:1.50GHz　Core/Thread:2/4　TDP:15W
+あいせぶん	Intel® Core™ i7-4558U Processor	独立語	キャッシュ:4.0MB SmartCache　動作周波数:2.80GHz　Core/Thread:2/4　TDP:28W
+あいせぶん	Intel® Core™ i7-4578U Processor	独立語	キャッシュ:4.0MB　動作周波数:3.00GHz　Core/Thread:2/4　TDP:28W
+あいせぶん	Intel® Core™ i7-4700EC Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:2.70GHz　Core/Thread:4/8　TDP:43W
+あいせぶん	Intel® Core™ i7-4700EQ Processor	独立語	キャッシュ:6.0MB SmartCache　動作周波数:2.40GHz　Core/Thread:4/8　TDP:47W
+あいせぶん	Intel® Core™ i7-4702EC Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:2.00GHz　Core/Thread:4/8　TDP:27W
+あいせぶん	Intel® Core™ i7-4770TE Processor	独立語	キャッシュ:8.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:4/8　TDP:45W
