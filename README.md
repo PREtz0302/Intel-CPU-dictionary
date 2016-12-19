@@ -4,4 +4,4 @@ IntelのCPU辞書を個人的に作成したものを協力者に極力作って
 共同作業を行えば大量の辞書データを少ない作業で手に入れられると思い上げました。
 辞書のファイルは通常の".txt"ファイルですがエクスポート方式はすべてGoogleIMEに順序してます。編集方法は実際にIMEでインポートすることが可能なら問わないです。
 とりあえずページ。ここから各プロセッサのページにジャンプがし易いと思います。
-http://www.intel.co.jp/content/www/jp/ja/processors/core/core-i7ee-processor.html
+http://ark.intel.com/ja/?_ga=1.143923637.101755879.1477795046
