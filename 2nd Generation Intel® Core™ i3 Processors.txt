@@ -1,0 +1,24 @@
+あいすりー	Intel® Core™ i3-2100 Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:3.10GHz　Core/Thread:2/4　TDP:65W
+あいすりー	Intel® Core™ i3-2100T Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:2.50GHz　Core/Thread:2/4　TDP:35W
+あいすりー	Intel® Core™ i3-2102 Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:3.10GHz　Core/Thread:2/4　TDP:65W
+あいすりー	Intel® Core™ i3-2120 Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:3.30GHz　Core/Thread:2/4　TDP:65W
+あいすりー	Intel® Core™ i3-2120T Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:2.60GHz　Core/Thread:2/4　TDP:35W
+あいすりー	Intel® Core™ i3-2130 Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:3.40GHz　Core/Thread:2/4　TDP:65W
+あいすりー	Intel® Core™ i3-2105 Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:3.10GHz　Core/Thread:2/4　TDP:65W
+あいすりー	Intel® Core™ i3-2125 Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:3.30GHz　Core/Thread:2/4　TDP:65W
+あいすりー	Intel® Core™ i3-2310M Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:2.10GHz　Core/Thread:2/4　TDP:35W
+あいすりー	Intel® Core™ i3-2312M Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:2.10GHz　Core/Thread:2/4　TDP:35W
+あいすりー	Intel® Core™ i3-2328M Processor	独立語	キャッシュ:3.0MB　動作周波数:2.20GHz　Core/Thread:2/4　TDP:35W
+あいすりー	Intel® Core™ i3-2330E Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:2.20GHz　Core/Thread:2/4　TDP:35W
+あいすりー	Intel® Core™ i3-2330M Processor	独立語	キャッシュ:3.0MB L3　動作周波数:2.20GHz　Core/Thread:2/4　TDP:35W
+あいすりー	Intel® Core™ i3-2348M Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:2/4　TDP:35W
+あいすりー	Intel® Core™ i3-2350M Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:2.30GHz　Core/Thread:2/4　TDP:35W
+あいすりー	Intel® Core™ i3-2357M Processor	独立語	キャッシュ:3.0MB L3　動作周波数:1.30GHz　Core/Thread:2/4　TDP:17W
+あいすりー	Intel® Core™ i3-2365M Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:1.40GHz　Core/Thread:2/4　TDP:17W
+あいすりー	Intel® Core™ i3-2367M Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:1.40GHz　Core/Thread:2/4　TDP:17W
+あいすりー	Intel® Core™ i3-2370M Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:2.40GHz　Core/Thread:2/4　TDP:35W
+あいすりー	Intel® Core™ i3-2375M Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:1.50GHz　Core/Thread:2/4　TDP:17W
+あいすりー	Intel® Core™ i3-2377M Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:1.50GHz　Core/Thread:2/4　TDP:17W
+あいすりー	Intel® Core™ i3-2310E Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:2.10GHz　Core/Thread:2/4　TDP:35W
+あいすりー	Intel® Core™ i3-2340UE Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:1.30GHz　Core/Thread:2/4　TDP:17W
+あいすりー	Intel® Core™ i3-2115C Processor	独立語	キャッシュ:3.0MB SmartCache　動作周波数:2.00GHz　Core/Thread:2/4　TDP:25W

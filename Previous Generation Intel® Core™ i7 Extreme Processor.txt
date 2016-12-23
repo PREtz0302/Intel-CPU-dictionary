@@ -1,0 +1,6 @@
+あいせぶん	Intel® Core™ i7-975 Processor Extreme Edition	独立語	キャッシュ:8.0MB SmartCache　動作周波数:3.33GHz　Core/Thread:4/8　TDP:130W
+あいせぶん	Intel® Core™ i7-965 Processor Extreme Edition	独立語	キャッシュ:8.0MB SmartCache　動作周波数:3.20GHz　Core/Thread:4/8　TDP:130W
+あいせぶん	Intel® Core™ i7-980X Processor Extreme Edition	独立語	キャッシュ:12.0MB SmartCache　動作周波数:3.33GHz　Core/Thread:6/12　TDP:130W
+あいせぶん	Intel® Core™ i7-990X Processor Extreme Edition	独立語	キャッシュ:12.0MB SmartCache　動作周波数:3.46GHz　Core/Thread:6/12　TDP:130W
+あいせぶん	Intel® Core™ i7-920XM Processor Extreme Edition	独立語	キャッシュ:8.0MB SmartCache　動作周波数:2.00GHz　Core/Thread:4/8　TDP:55W
+あいせぶん	Intel® Core™ i7-940XM Processor Extreme Edition	独立語	キャッシュ:8.0MB SmartCache　動作周波数:2.13GHz　Core/Thread:4/8　TDP:55W
